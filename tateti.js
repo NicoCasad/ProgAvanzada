@@ -35,7 +35,20 @@ function limpiar(){
     botones[6].innerHTML = "";
     botones[7].innerHTML = "";
     botones[8].innerHTML = "";
+    botones[0].style.backgroundColor = "white";
+    botones[1].style.backgroundColor = "white";
+    botones[2].style.backgroundColor = "white";
+    botones[3].style.backgroundColor = "white";
+    botones[4].style.backgroundColor = "white";
+    botones[5].style.backgroundColor = "white";
+    botones[6].style.backgroundColor = "white";
+    botones[7].style.backgroundColor = "white";
+    botones[8].style.backgroundColor = "white";
     fichasPuestas = 0;
+    estadoPartida = 0;
+    document.getElementById("j1").style.visibility = "hidden";
+    document.getElementById("j2").style.visibility = "hidden";
+    document.getElementById("empate").style.visibility = "hidden";
 }
 
 function victoria(){
