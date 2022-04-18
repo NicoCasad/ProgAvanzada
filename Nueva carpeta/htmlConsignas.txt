@@ -1,0 +1,6 @@
+https://lenguajehtml.com/html/semantica/etiquetas-html-de-agrupacion/#etiquetas-html-para-agrupaciones
+1- crear archivo
+2- guardar nuevo archivo con extencion html
+3- escribir html 5 en el editor para que se cree el codigo inicial necesario de html
+4- head: donde se definen todos los metadatos de la pagina web, la parte que no se ve. Se utilizan las palabras clave: meta, titulo(escribir lo que va a salir en el rectangulo de la pestaña en la parte superior)
+5- body: donde se definen todos los elementos que si aparecen en la pagina.

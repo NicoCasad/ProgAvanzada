@@ -1,0 +1,6 @@
+1- crear archivo al igual que el de html
+2- asociarlo mediante el archivo de html con el codigo link y poniendo en href el nombre del archivo de css con la extencion
+3- con body {} se define el estilo del body y de lo que se encuentra en el, es decir, de la parte visual que definimos en html y cosas como el color del fondo 
+4- para definir estilos de clase se utiliza el punto seguido del nombre de la clase creada(.clase)
+5- para definir estilos de un tipo de agrupacion(por ejemplo h1, o p) se utiliza h1{}
+6- para definir estilos para un id se utiliza numeral mas el nombre del id asignado(#tablero)
